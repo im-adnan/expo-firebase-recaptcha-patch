@@ -28,13 +28,13 @@
 		"@changesets/cli": "^2.27.7",
 		"@types/bcrypt": "^5.0.2",
 		"@types/lodash": "^4.17.7",
-		"@types/react": "^18.3.3",
+		"@types/react": "^18.2.41",
 		"tsup": "^8.2.4",
 		"typescript": "^5.5.4"
 	},
 	"peerDependencies": {
 		"firebase": "^10.12.5",
-		"react": "^18.3.1",
+		"react": "^18.2.0",
 		"react-native": "^0.74.4",
 		"react-native-webview": "^13.8.6"
 	}
