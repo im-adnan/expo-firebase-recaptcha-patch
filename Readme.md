@@ -1,6 +1,6 @@
 ## firebase phone number authentication react native expo hook
 
-Run command for install `npm i -D @itzsunny/firebase-login`
+Run command for install `npm i -D @im-adnan/firebase-login`
 
 #### Example 
 ``` 
